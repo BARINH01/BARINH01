@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BARINH01
 - 👀 I’m interested in music and programming
-- 🌱 I’m currently learning programming in c/c++.
+- 🌱 I’m currently learning programming in c/c++ and Objective-C.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... send email to ibaric00@fesb.hr
 
