@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ivan
 - 👀 I’m interested in music and programming
 - 🌱 I’m currently learning programming in C/C++ and Objective-C, React and Next.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... send email to ibaric00@fesb.hr
 
 <!---
